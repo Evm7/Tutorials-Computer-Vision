@@ -3,4 +3,4 @@ During my research I usually like to visuallize and understand clearly how some 
 
 
 ## Hoi Interaction
-*   [QPIC Tutorial](qpic_tutorial.ipynb): [Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information](https://github.com/hitachi-rd-cv/qpic/tree/main)
+*   [QPIC Tutorial](https://github.com/Evm7/Tutorials-Computer-Vision/blob/master/HOI_Tutorials/QPIC.ipynb): original repository is [Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information](https://github.com/hitachi-rd-cv/qpic/tree/main)
