@@ -3,7 +3,8 @@ During my research I usually like to visuallize and understand clearly how some 
 
 
 ## Tracking-Detection
-This approach consists on detecting objects in videos with a given identifier that is maintained during the whole video.-*   [Multi- Object Tracking Detection Tutorial](https://github.com/Evm7/Tutorials-Computer-Vision/blob/master/TrackingDetection_Tutorials/Multi_Object_TrackingDetection_Tutorial.ipynb): use of tracking-detection approach to detecting objects from images and videos and tracking their position through time. We make use of the most state-of-the-art obejct detectors with a real-time tracer for easy deployment to real world scenarios
+This approach consists on detecting objects in videos with a given identifier that is maintained during the whole video.
+*   [Multi- Object Tracking Detection Tutorial](https://github.com/Evm7/Tutorials-Computer-Vision/blob/master/TrackingDetection_Tutorials/Multi_Object_TrackingDetection_Tutorial.ipynb): use of tracking-detection approach to detecting objects from images and videos and tracking their position through time. We make use of the most state-of-the-art obejct detectors with a real-time tracer for easy deployment to real world scenarios
 
 ## Hoi Interaction
 In order to really understand the context of a given video, it is not only necessary to track and detect people, but to be able to undersatnd how these people interacts with the objects of the scene. Human-Object Interaction (HOI) detect this pairs of relationships between humans and objects and classifies the given task.
