@@ -8,7 +8,9 @@ This approach consists on detecting objects in videos with a given identifier th
 
 ## Hoi Interaction
 In order to really understand the context of a given video, it is not only necessary to track and detect people, but to be able to undersatnd how these people interacts with the objects of the scene. Human-Object Interaction (HOI) detect this pairs of relationships between humans and objects and classifies the given task.
-*   [QPIC Tutorial](https://github.com/Evm7/Tutorials-Computer-Vision/blob/master/HOI_Tutorials/QPIC.ipynb): original repository is [Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information](https://github.com/hitachi-rd-cv/qpic/tree/main)
+*   [QPIC Tutorial](https://github.com/Evm7/Tutorials-Computer-Vision/blob/master/HOI_Tutorials/QPIC_HOI.ipynb): original repository is [Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information](https://github.com/hitachi-rd-cv/qpic/tree/main)
+*   [CDN Tutorial](https://github.com/Evm7/Tutorials-Computer-Vision/blob/master/HOI_Tutorials/CDN_HOI.ipynb): original repository is [Mining the Benefits of Two-stage and One-stage HOI Detection](https://github.com/YueLiao/CDN)
+
 
 ## Eye Gaze Following
 Detect what people is looking at allows to gain a lot of information regarding the scene and to predict intentions of humans.
